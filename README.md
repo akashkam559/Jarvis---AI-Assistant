@@ -100,6 +100,3 @@ Step 1: Open the file location.
 Step 2: Right-click on the application and click on properties.
 Step 3: Copy the target from the target section
 After copying the target of the application, save the target into a variable. Here, I am saving the target into a variable called codePath, and then we are using the os module to open the application.
-
-OUTPUT
---------
