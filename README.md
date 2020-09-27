@@ -4,17 +4,17 @@ A virtual computer based assistant, perform various task & instructions.
 
 Table of Content
 ----------------
-Demo
+* Demo
 
-Overview
+* Overview
 
-Motivation
+* Motivation
 
-Installation
+* Installation
 
-Steps
+* Steps
 
-Future scope of project
+* Future scope of project
 
 
 DEMO
