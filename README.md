@@ -5,10 +5,15 @@ A virtual computer based assistant, perform various task & instructions.
 Table of Content
 ----------------
 Demo
+
 Overview
+
 Motivation
+
 Installation
+
 Steps
+
 Future scope of project
 
 
