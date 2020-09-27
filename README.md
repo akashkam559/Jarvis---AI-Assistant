@@ -1,7 +1,17 @@
 # JARVIS AI Assistent
 -----------------------
-
 A virtual computer based assistant, perform various task & instructions.
+
+DEMO
+------
+![2020-09-28 (23)](https://user-images.githubusercontent.com/41515202/94376317-71435800-0137-11eb-8dc0-3c4de3beddc1.png)
+
+![2020-09-28 (24)](https://user-images.githubusercontent.com/41515202/94376318-72748500-0137-11eb-8d88-54038bd14235.png)
+
+![2020-09-28 (25)](https://user-images.githubusercontent.com/41515202/94376319-73a5b200-0137-11eb-9184-ce79519d8226.png)
+
+![2020-09-28 (26)](https://user-images.githubusercontent.com/41515202/94376320-756f7580-0137-11eb-83c3-be2d07a71225.png)
+
 
 What is it ??
 ----------------
